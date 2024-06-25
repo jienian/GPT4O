@@ -3,6 +3,8 @@
 
 # Demo
 <!-- markdown 显示图片 gif -->
+![5dac1da472751a41b41e152302797d7](https://github.com/jienian/GPT4O/assets/45189482/22c3a63d-27cd-440b-a903-54d769c31053)
+
 ![GPT4O-Gif](imgs/20240520-054003.gif)
 https://www.bilibili.com/video/BV1Vm421M7ZN/
 
